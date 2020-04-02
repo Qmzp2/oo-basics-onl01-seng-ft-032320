@@ -12,7 +12,7 @@ attr_reader :brand, :color, :size, :material, :condition
    puts "Your shoe is as good as new!"
  end
  
- def repair(condition)
+ def repair
    @condition = "new"
  end
  
