@@ -10,4 +10,5 @@ attr_reader :brand, :color, :size, :material, :condition
  
  def cobble(cobble)
    
+ end
 end
