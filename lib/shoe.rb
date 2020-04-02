@@ -13,7 +13,7 @@ attr_reader :brand, :color, :size, :material, :condition
  end
  
  def condition
-   @condition = "new"
+   @condition = "tattered"
  end
  
 end
