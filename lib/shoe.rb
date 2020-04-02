@@ -8,7 +8,7 @@ attr_reader :brand, :color, :size, :material, :condition
  @brand = brand
  end
  
- def cobble(cobble)
+ def cobble
    
  end
 end
