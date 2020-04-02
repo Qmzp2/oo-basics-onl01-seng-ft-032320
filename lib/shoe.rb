@@ -1,5 +1,0 @@
-
-
-class Shoe
-  
-end
