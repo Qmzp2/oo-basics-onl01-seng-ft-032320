@@ -11,4 +11,9 @@ attr_reader :brand, :color, :size, :material, :condition
  def cobble
    puts "Your shoe is as good as new!"
  end
+ 
+ def repair(condition)
+   @condition = "new"
+ end
+ 
 end
